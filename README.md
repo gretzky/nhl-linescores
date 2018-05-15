@@ -1,6 +1,6 @@
 # nhl-linescores
 
-nhl api scraper that returns todays game scores
+nhl api scraper that returns todays game scores 🏒
 
 ## usage
 
